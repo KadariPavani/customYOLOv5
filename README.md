@@ -5,3 +5,8 @@ Object detection is one of the most basic and central task in computer vision. I
 This YOLOv5 is an Open Source/Pre-defined model to detect the objects that what we want to be detect. It should be pre-trained by 80 classes in this model to detect.
 
 ![image](https://github.com/user-attachments/assets/1a227642-a153-451b-a79a-c1e5b78772e2)
+
+
+Output
+
+![Uploading image.png…]()
